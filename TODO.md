@@ -5,7 +5,7 @@ Checklist derived from [PLAN.md](PLAN.md). Milestones in order; each item is sma
 ## Resume here
 
 - [ ] Owner decisions: license set, product name, LLM provider, mocap/GPU budget (PLAN §19)
-- [ ] Merge research results in `docs/research/` (alphabets + starter lexicons) into the language packages
+- [ ] Research in `docs/research/` was stopped early (partial lexicons only, no alphabets yet): finish it, then merge into the language packages
 - [ ] Start M0
 
 ## M0 Foundation
